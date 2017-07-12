@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First_Test</string>
+    <string name="false_button">Хиба</string>
+    <string name="true_button">Правда</string>
+    <string name="questions_text">рррррр87tyuuyuigfhfdghdgghfdsfvdfgsfgsgsffsgsfgsfdgfsfdgsdfgsdfgsfsр</string>
+    <string name="score">Ваш результат:</string>
+    <string name="correct">Ви дали вірну відповідь</string>
+    <string name="incorrect">Ви дали невірну відповідь</string>
+</resources>
